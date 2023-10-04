@@ -1,6 +1,7 @@
-# Hi there, I'm Gaganrattan Singh 👋
+<h1 align="center">Hi 👋, I'm Gaganrattan Singh</h1>
+<h3 align="center">I'm a proficient and driven Front-End Software Developer with over 3 years of hands-on experience in constructing dynamic, adaptable, and responsive web applications. I specialize in using HTML, Tailwind CSS, JavaScript, React.js, and Redux frameworks to create high-quality, user-centric solutions.</h3>
 
-I'm a proficient and driven Front-End Software Developer with over 3 years of hands-on experience in constructing dynamic, adaptable, and responsive web applications. I specialize in using HTML, Tailwind CSS, JavaScript, React.js, and Redux frameworks to create high-quality, user-centric solutions.
+
 
 🌟 Here's a brief overview of my skills and experience:
 
