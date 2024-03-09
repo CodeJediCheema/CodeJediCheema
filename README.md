@@ -29,10 +29,7 @@
   - Master of Business Administration from Lovely Professional University (2020 - 2022).
   - Bachelor of Technology in Computer Science & Engineering from Guru Nanak Dev University (2015 - 2019).
 
-- 📜 **Certifications**:
-  - [Introduction to Front-End Development](https://coursera.org/share/b79ba831134bbef23c36768ca071b9d4) - Coursera, Meta.
-  - [Programming with JavaScript](https://coursera.org/share/59889bf87a58d3ad5f1c344837212276) - Coursera, Meta.
-  - [Namaste React Course](https://courses.namastedev.com/learn/certificate/8485008-142240) - NamasteDev.com.
+
 
 Feel free to connect with me on [LinkedIn](www.linkedin.com/in/gaganrattan-singh) or check out my [GitHub](https://github.com/CodeJediCheema) for more of my work!
 
