@@ -26,7 +26,7 @@
 
 🌟 Here's a brief overview of my skills and experience:
 
-- 🚀 **Key Competencies**: Java, Spring Boot, Maven, HTML5, CSS3, JavaScript, Typescript, React.js, Redux, Webpack, Babel, Jest, JUnit, Git, Tailwind CSS, Bootstrap, Responsive Design, Web Accessibility.
+- 🚀 **Key Competencies**: Java, Spring Boot, Maven, HTML5, CSS3, JavaScript, Typescript, React.js, Redux, MY Sql, Webpack, Babel, Jest, JUnit, Git, Tailwind CSS, Bootstrap, Responsive Design, Web Accessibility.
 
 - 📚 **Education**:
   - Master of Business Administration (2020 - 2022).
