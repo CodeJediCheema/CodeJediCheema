@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gaganrattan Singh</h1>
-<h3 align="center">I'm a proficient Full Stack Java Developer with React with over 4 years of hands-on experience in constructing dynamic, adaptable, and responsive web applications. I specialize in using Java, Spring Framework, HTML, Tailwind CSS, JavaScript, React.js, and Redux frameworks to create high-quality, user-centric solutions.</h3>
+<h3 align="center">With over 4 years of immersive experience, I am a proficient Full Stack Java Developer specializing in React. My expertise lies in the construction of dynamic, adaptable, and responsive web applications that prioritize user satisfaction. Leveraging a comprehensive skill set that includes Java, Spring Framework, HTML, Tailwind CSS, JavaScript, React.js, and Redux frameworks, I am committed to delivering top-tier solutions that align with client objectives and exceed industry standards.</h3>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
